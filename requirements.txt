@@ -1,0 +1,6 @@
+opencv-python==4.8.1.78     # Para el procesamiento de video y visión por computadora
+mediapipe==0.10.8           # Para la detección y seguimiento de manos
+pyautogui==0.9.54          # Para controlar el cursor del mouse
+numpy==1.26.2              # Para cálculos numéricos eficientes
+python-dotenv==1.0.0       # Para manejar variables de entorno si las necesitamos
+pytest==7.4.3              # Para pruebas unitarias
